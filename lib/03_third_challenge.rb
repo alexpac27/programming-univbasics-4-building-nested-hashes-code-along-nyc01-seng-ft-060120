@@ -8,7 +8,7 @@ def third_challenge
         ["Lady Montague", "54"]
         },
       :hero => {
-        #your key/value pairs here
+        ["Romeo", "15", "alive"]
         },
       :hero_friends => []
    },
